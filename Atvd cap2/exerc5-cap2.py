@@ -13,4 +13,4 @@ while True :
         print ("dezena  : {}".format(transformandosapohaemtxt[2]))
         print ("centena : {}".format(transformandosapohaemtxt[1]))
         print ("milhar : {}".format(transformandosapohaemtxt[0]))
-    break
+        break
