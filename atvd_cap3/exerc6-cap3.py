@@ -1,0 +1,11 @@
+IngredientesDoBolo = ['farinha','leite','manteiga',]
+print('todos os igredientes atuais :',IngredientesDoBolo)
+print('adicionando zovo no final da lista..')
+IngredientesDoBolo.append('zovo')
+print(IngredientesDoBolo)
+print('adicionando acucar numa posicao especifica da lista no caso a posicao 3..')
+IngredientesDoBolo.insert(3,'acucar')
+print(IngredientesDoBolo)
+print('removendo um item pelo valor na lista, no caso a farinha...')
+IngredientesDoBolo.remove('farinha')
+print(IngredientesDoBolo)
